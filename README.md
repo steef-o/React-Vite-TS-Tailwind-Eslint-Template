@@ -17,10 +17,12 @@ Also note that this README.md file is written by Chat-GPT3.5, so it may not be e
 
 ## Getting Started
 
-1. Clone this repository: `git clone <repository-url>`
-2. Navigate to the project folder: `cd react-vite-ts-tailwind-eslint-template`
-3. Install dependencies: `npm install`
-4. Run the development server: `npm run dev`
+1. Click the **"Use this template"** button at the top of this repository to create a new repository based on this template.
+2. Follow the prompts to create a new repository in your account.
+3. Clone your new repository: `git clone <your-repository-url>`
+4. Navigate to the project folder: `cd <your-repository-name>`
+5. Install dependencies: `npm install`
+6. Run the development server: `npm run dev`
 
 Open your browser and visit [http://localhost:3000](http://localhost:3000) to see your app in action.
 
